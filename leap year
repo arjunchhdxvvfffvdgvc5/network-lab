@@ -26,14 +26,14 @@ fi
                                             
                                             
                                             
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ chmod +x year.sh
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ ./year.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ chmod +x year.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ ./year.sh
 Enter the year (YYYY)
 2001
 2001 is not a leap year
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ chmod +x year.sh
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ ./year.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ chmod +x year.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ ./year.sh
 Enter the year (YYYY)
 2004
 2004 is a leap year
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ 
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ 
