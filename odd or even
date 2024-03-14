@@ -15,13 +15,13 @@ check_odd_even "$number"
 
                                          output
                                          
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ chmod +x odd.sh
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ ./odd.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ chmod +x odd.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ ./odd.sh
 Please enter a number: 
 3
 3 is odd
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ chmod +x odd.sh
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ ./odd.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ chmod +x odd.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ ./odd.sh
 Please enter a number: 
 6
 6 is even
