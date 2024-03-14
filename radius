@@ -12,8 +12,8 @@ echo "Circumference : $cir"
 					
 
 
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ chmod +x radius.sh
-mlm@mlm-OptiPlex-3020:~/Desktop/angith/mca$ ./radius.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ chmod +x radius.sh
+mlm@mlm-OptiPlex-3020:~/Desktop/arjun/mca$ ./radius.sh
 Enter the radius:
 2
 Area : 12.56
